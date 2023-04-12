@@ -1,4 +1,4 @@
-.App {
+/* .App {
   text-align: center;
 }
 
@@ -35,4 +35,276 @@
   to {
     transform: rotate(360deg);
   }
+} */
+
+*{
+  margin: 0;
+  padding: 0;
 }
+
+
+.div-head{
+  display: flex;
+  align-items: center;
+  justify-content: space-around;
+  background-color: #242323; 
+  height: 50px;
+
+}
+
+.div-head ul{
+  display: flex;
+  overflow: hidden;
+  list-style: none;
+
+}
+
+.div-menu{
+  width: 50%;
+  position: relative;
+  right: 150px;
+}
+
+
+.div-head ul li a{
+  font-family: 'LuzSans-Book';
+font-style: normal;
+font-weight: 500;
+font-size: 20px;
+line-height: 24px;
+color: #ffff;
+text-decoration: none;
+padding: 15px;
+}
+
+
+
+.div-btn button{
+  width: 100px;
+  height: 30px;
+  background-color: #F56451;
+  box-shadow:  0px 0px 13px 2px #F56451;
+  border: none;
+  border-radius:5px ;
+}
+
+.div-btn button a {
+  color: white;
+  text-decoration: none;
+}
+
+.div-body{
+  display: flex;
+}
+
+.div-bac{
+  background-image: url(./images/office.jpg);
+  height: 100vh;
+  width: 50%;
+  display: flex;
+  justify-content: center;
+  position: relative;
+}
+
+.div-register{
+  background-color: #F56451;
+  width: 50%;
+  display: flex;
+  flex-direction: column;
+}
+
+.div-bac h1{
+  font-family: 'LuzSans-Book';
+font-style: normal;
+font-weight: 500;
+font-size: 144px;
+line-height: 173px;
+color: #FFFFFF;
+position: absolute;
+top: 100px;
+}
+
+.div-register h1{
+  font-family: 'LuzSans-Book';
+  font-style: normal;
+  font-weight: 500;
+  font-size: 144px;
+  line-height: 173px;
+  color: #FFFFFF;
+    position: absolute;
+  top: 100px;
+}
+
+
+.div-bac h3{
+   font-family: 'DINPro';
+   font-style: normal;
+   font-weight: 500;
+   font-size: 64px;
+   line-height: 82px;
+   color: #FFFFFF;
+   position: absolute;
+   top: 300px;
+}
+
+
+.icon-play{
+  color: #F56451;
+  font-size: 40px;
+}
+
+
+.icon-times{
+  display: flex;
+  justify-content: flex-end;
+  position: relative;
+  top:70px;
+  right: 150px;
+}
+
+.icon-faTimes{
+  color: #ffff;
+  font-size:50px;
+}
+
+
+.div-text{
+  position: absolute;
+  display: flex;
+  flex-direction: column;
+  top: 260px;
+}
+
+
+
+.div-text h2{
+  color: #323433;
+  font-size: 70px;
+}
+
+.div-register h2{
+  font-family: 'LuzSans-Book';
+  font-style: normal;
+  font-size: 80px;
+  line-height: 95px;
+  color:#323433;
+  position: absolute;
+  font-weight: 500;
+  top: 260px;
+}
+
+.div-register img{
+  width: 107.6px;
+  height: 154.13px;
+}
+
+.div-ear{
+  display: flex;
+  justify-content: flex-end;
+  align-self: flex-end;
+  position: relative;
+  top: 300px;
+  right: 50px;
+}
+
+
+
+
+
+
+@media (max-width:1300px){
+  .div-menu{
+    width: 50%;
+    position: relative;
+    right: 120px;
+  }
+
+  .div-bac h1{
+    font-size: 110px;
+  }
+
+  .div-register h1{
+    font-size: 110px;
+  }
+} 
+
+
+@media (max-width:1100px){
+  .div-menu{
+    position: relative;
+    right: 80px;
+  }
+} 
+
+@media (max-width:940px){
+  .div-menu{
+    position: relative;
+    right: 50px;
+    padding: 10px;
+  }
+
+  .div-menu ul li a{
+ 
+
+    font-size: 15px;
+    line-height: 26px;
+    color: #ffff;
+    text-decoration: none;
+    padding: 10px;
+  }
+  .div-images img{
+    width: 70px;
+  }
+  .div-bac h1{
+    font-size: 90px;
+  }
+  .div-register h1{
+    font-size: 90px;
+  }
+
+  .div-bac h3{
+    font-size: 50px;
+  }
+
+} 
+
+@media (max-width:770px){
+  .div-menu{
+    position: relative;
+    padding: 15px;
+    left: 7px;
+  }
+
+  .div-menu ul li a{
+    font-size: 15px;
+    color: #ffff;
+    text-decoration: none;
+    padding: 8px;
+  }
+  .div-images img{
+    width: 50px;
+  }
+  .div-bac h1{
+    font-size: 55px;
+  }
+  .div-btn button{
+    width: 80px;
+    height: 25px;
+  }
+
+  .div-register h1{
+    font-size: 55px;
+  }
+
+  .div-bac h3{
+    position: relative;
+    bottom: 40px;
+    font-size: 30px;
+  }
+
+  .div-bac h3 .icon-play{
+    font-size: 20px;
+  }
+
+
+} 
