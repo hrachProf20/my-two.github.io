@@ -208,6 +208,487 @@ top: 100px;
 }
 
 
+.div-background{
+  background: #4A4A4A;
+  height: auto;
+  width: 100%;
+  padding-top: 50px;
+}
+
+
+.div-macbook{
+  background-image: url(./images/MacBook\ Pro7_logo\ 1.png);
+  height: 900px;
+  background-size: cover;
+  background-repeat: no-repeat;
+}
+
+.div-macbook h1{
+  font-family: 'DINPro';
+font-style: normal;
+font-weight: 500;
+font-size: 24px;
+line-height: 31px;
+text-align: center;
+text-transform: uppercase;
+color: #ffffff;
+}
+
+.div-macbook p{
+  font-family: 'DINPro';
+  font-style: normal;
+  font-weight: 500;
+  font-size: 24px;
+  line-height: 31px;
+  text-align: center;
+  text-transform: uppercase;
+  color: #ffffff;
+}
+
+.div-icon-one{
+  background-image: url(./images/Rectangle\ 24.png);
+  height: 150px;
+  width: 150px;
+  background-size: cover;
+  margin:auto;
+}
+
+.div-icon-two{
+  background-image: url(./images/Rectangle\ 23.png);
+  height: 120px;
+  width: 120px;
+  background-size: cover;
+  margin: auto;
+  position: relative;
+  top: 15px;
+}
+
+.div-icon-three{
+  background-image: url(./images/Rectangle\ 22.png) ;
+  height: 92px;
+  width: 92px;
+  background-size: cover;
+  margin: auto;
+  position: relative;
+  top: 15px;
+}
+
+.div-icon-for {
+  background-image: url(./images/Rectangle\ 26.png);
+  height: 90px;
+  width: 90px;
+  background-size: cover;
+  position: relative;
+  margin: auto;
+}
+
+.img-svg{
+  margin: auto;
+  width: 30px;
+  padding: 30px;
+}
+
+
+.div-icon-five{
+  background-image: url(./images/Rectangle\ 24.png);
+  height: 150px;
+  width: 150px;
+  background-size: cover;
+  margin:auto 250px; 
+}
+
+.div-icon-five h1{
+font-family: 'DINPro';
+font-style: normal;
+font-weight: 500;
+font-size: 24px;
+line-height: 31px;
+text-align: center;
+color: #ffffff;
+padding-top: 40px;
+}
+
+.div-icon-six{
+  background-image: url(./images/Rectangle\ 23.png);
+  height: 120px;
+  width: 120px;
+  background-size: cover;
+  margin: auto;
+  position: relative;
+  top: 15px;
+}
+
+.div-icon-seven{
+  background-image: url(./images/Rectangle\ 22.png) ;
+  height: 92px;
+  width: 92px;
+  background-size: cover;
+  margin: auto;
+  position: relative;
+  top: 15px;
+}
+
+.div-icon-eit{
+  background-image: url(./images/Rectangle\ 26.png);
+  height: 90px;
+  width: 90px;
+  background-size: cover;
+  position: relative;
+  margin: auto;
+}
+
+
+.div-ic-one{
+  background-image: url(./images/Rectangle\ 24.png);
+  height: 150px;
+  width: 150px;
+  background-size: cover;
+  position: relative;
+  bottom: 155px;
+  margin: auto;
+  margin-right: 250px;
+}
+
+.div-ic-one h1{
+  font-family: 'DINPro';
+font-style: normal;
+font-weight: 500;
+font-size: 24px;
+line-height: 31px;
+text-align: center;
+color: #ffffff;
+padding-top: 40px;
+}
+
+.div-ic-two{
+  background-image: url(./images/Rectangle\ 23.png);
+  height: 120px;
+  width: 120px;
+  background-size: cover;
+  margin: auto;
+  position: relative;
+  top: 15px;
+}
+
+.div-ic-three{
+  background-image: url(./images/Rectangle\ 22.png) ;
+  height: 92px;
+  width: 92px;
+  background-size: cover;
+  margin: auto;
+  position: relative;
+  top: 15px;
+}
+
+.div-ic-for{
+  background-image: url(./images/Rectangle\ 26.png);
+  height: 90px;
+  width: 90px;
+  background-size: cover;
+  position: relative;
+  margin: auto;
+}
+
+.div-ic-five{
+  background-image: url(./images/Rectangle\ 24.png);
+  height: 150px;
+  width: 150px;
+  background-size: cover;
+  position: relative;
+  bottom: 140px;
+  margin: auto;
+  margin-right: 250px;
+  
+}
+
+.div-ic-six{
+  background-image: url(./images/Rectangle\ 23.png);
+  height: 120px;
+  width: 120px;
+  background-size: cover;
+  margin: auto;
+  position: relative;
+  top: 15px;
+}
+
+
+.div-ic-seven{
+  background-image: url(./images/Rectangle\ 22.png) ;
+  height: 92px;
+  width: 92px;
+  background-size: cover;
+  margin: auto;
+  position: relative;
+  top: 15px;
+}
+
+.div-ic-eit{
+  background-image: url(./images/Rectangle\ 26.png);
+  height: 90px;
+  width: 90px;
+  background-size: cover;
+  position: relative;
+  margin: auto;
+}
+
+
+.div-ic-five-cloune{
+  background-image: url(./images/Rectangle\ 24.png);
+  height: 150px;
+  width: 150px;
+  background-size: cover;
+  margin-left: auto;
+  position: relative;
+  top: 150px;
+  right: 50px;
+}
+
+.div-ic-five-cloune h1{
+  font-family: 'DINPro';
+font-style: normal;
+font-weight: 500;
+font-size: 24px;
+line-height: 31px;
+color: #ffffff;
+padding-top: 35px;
+}
+
+.div-ic-six-cloune{
+  background-image: url(./images/Rectangle\ 23.png);
+  height: 120px;
+  width: 120px;
+  background-size: cover;
+  margin: auto;
+  position: relative;
+  top: 15px;
+}
+
+.div-ic-seven-cloune{
+  background-image: url(./images/Rectangle\ 22.png) ;
+  height: 92px;
+  width: 92px;
+  background-size: cover;
+  margin: auto;
+  position: relative;
+  top: 15px;
+}
+
+.div-ic-eit-cloune{
+  background-image: url(./images/Rectangle\ 26.png);
+  height: 90px;
+  width: 90px;
+  background-size: cover;
+  position: relative;
+  margin: auto;
+}
+
+.div-icon-five-cloune{
+  background-image: url(./images/Rectangle\ 24.png);
+  height: 150px;
+  width: 150px;
+  background-size: cover;
+  margin:auto 100px; 
+}
+
+.div-icon-five-cloune h1{
+  font-family: 'DINPro';
+  font-style: normal;
+  font-weight: 500;
+  font-size: 24px;
+  line-height: 31px;
+  text-align: center;
+  color: #ffffff;
+  padding-top: 40px;
+  }
+  
+
+.div-icon-six-cloune{
+  background-image: url(./images/Rectangle\ 23.png);
+  height: 120px;
+  width: 120px;
+  background-size: cover;
+  margin: auto;
+  position: relative;
+  top: 15px;
+}
+
+
+.div-icon-seven-cloune{
+  background-image: url(./images/Rectangle\ 22.png) ;
+  height: 92px;
+  width: 92px;
+  background-size: cover;
+  margin: auto;
+  position: relative;
+  top: 15px;
+}
+
+
+.div-icon-eit-cloune{
+  background-image: url(./images/Rectangle\ 26.png);
+  height: 90px;
+  width: 90px;
+  background-size: cover;
+  position: relative;
+  margin: auto;
+}
+
+
+.people-data{
+  height: 1440px;
+  margin-left: 150px;
+}
+
+.people-Data-Div{
+  display: flex;
+}
+
+.data-div{
+  width: 50%;
+}
+
+
+
+.data-h1,
+.data-p{
+  color:#567365;
+  font-family: 'DINPro';
+font-style: normal;
+font-weight: 700;
+font-size: 64px;
+line-height: 82px;
+text-transform: capitalize;
+}
+
+
+.data-lorem{
+  width: 50%;
+}
+
+.data-lorem p{
+  color: rgba(50, 52, 51, 0.8);
+}
+
+.data-icon{
+  display: flex;
+  margin:30px 0;
+  width: 80%;
+}
+
+.data-icon div{
+  margin: auto 10px;
+}
+
+.people-img{
+  background-image: url(./images/people-job-teamwork-cooperation-concept-two-professional-engineers-colleagues-sitting-desk-with-blueprints-computer-engineering-tools-discussing-plans-ideas-having-serious-looks\ 1\ \(1\).png);
+  height: 350px;
+  width: 40%;
+  background-size: cover;
+  background-position: center;
+}
+
+.div-head-onb{
+  display: flex;
+}
+
+
+.div-onboarding{
+  display: flex;
+  width: 100%;
+  margin: 150px auto;
+}
+
+.div-img-svg{
+   position: relative;
+   left: 40%;
+   bottom: 77px;
+}
+
+.div-img-svg img{
+  position:absolute;
+}
+
+
+.onboarding-img{
+  background-image: url(./images/asian-businessmen-businesswomen-meeting-brainstorming-ideas-about-creative-web-design-planning-application-developing-template-layout-mobile-phone-project-working-together-small-office\ 2.png);
+  height: 400px;
+  width: 70%;
+  background-position: center;
+  background-size: cover;
+}
+
+.text-onb{
+  position: relative;
+  right: 150px;
+  width: 25%;
+  top: 125px;
+}
+
+.text-onb p{
+  padding-top: 30px;
+}
+
+.div {
+  position: relative;
+}
+
+.div img{
+  margin-top: 30px;
+  position: absolute;
+}
+
+.p{
+  margin-top: 30px;
+  position: relative;
+}
+
+.div p{
+  
+font-family: 'DINPro';
+font-style: normal;
+font-weight: 500;
+font-size: 15px;
+line-height: 19px;
+text-transform: capitalize;
+position: absolute;
+color: #53815E;
+top: 45px;
+}
+
+
+.text-onb h1{
+  font-family: 'DINPro';
+font-style: normal;
+font-weight: 700;
+font-size: 64px;
+line-height: 82px;
+text-transform: capitalize;
+color: #567365;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
